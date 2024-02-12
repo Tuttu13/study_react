@@ -10,5 +10,5 @@ v13.9.0
 ```$ npx create-react-app --version```  
 3.3.0
 
-```$ npx create-react-app study_react_ty --template typescript```
+```$ npx create-react-app study_react_ts --template typescript```
 
